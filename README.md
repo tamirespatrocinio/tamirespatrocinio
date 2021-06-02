@@ -3,9 +3,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador" style="max-width:100%;">
 
 <p align="left"> 
-:mortar_board: Formada em Ciências Biológicas e Cursando Técnico em Informática - Senac.</br>
-🔭 Em transição de carreira...<br/>
-⚡ Hobby: Tomar um café, livros, séries e viajar com os amigos.</br>
+:mortar_board: Formada em Biologia e cursando Técnico em Informática pelo Senac.</br>
+🔭 Em transição de carreira, com objetivo em atuar na área de desenvolvimento. 
+Criadora de conteúdo de programação e tecnologia. </br>
+⚡ Hobby: Tomar um café, livros, séries, fotografar e viajar com os amigos.</br>
 </p>
 
 
