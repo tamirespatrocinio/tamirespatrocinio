@@ -44,10 +44,4 @@
 <img align = "left" src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
 
 
- 
-<div> 
 
- 
-  ![Snake animation](https://github.com/tamirespatrocinio/snk/raw/output/github-contribution-grid-snake.svg)
- 
-</div>
