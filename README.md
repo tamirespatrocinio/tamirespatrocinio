@@ -37,7 +37,7 @@ Criadora de conteúdo de programação e tecnologia. </br>
 ### Reach me out 👇:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamires-patrocinio/)](https://www.linkedin.com/in/tamires-patrocinio/)
-[![Gmail Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinioo@gmail.com)](mailto:tamirespatrocinioo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinioo@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
 
 
 
