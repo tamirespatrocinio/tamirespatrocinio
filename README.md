@@ -1,6 +1,6 @@
 # Hello World!👋🏼
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px" align="right" alt="Computador" style="max-width:100%;">
 
 <p align="left"> 
 :mortar_board: Formada em Biologia e cursando Técnico em Informática pelo Senac.</br>
@@ -24,12 +24,12 @@ Criadora de conteúdo de programação e tecnologia. </br>
 </br>
  <div>
   <a href="https://github.com/tamirespatrocinio">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
 
-
+##
 
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
 <img align = "left" src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
