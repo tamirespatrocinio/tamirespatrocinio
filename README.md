@@ -1,6 +1,6 @@
 # Hello World!👋🏼
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador" style="max-width:100%;">
 
 <p align="left"> 
 :mortar_board: Formada em Biologia e cursando Técnico em Informática pelo Senac.</br>
@@ -22,22 +22,12 @@ Criadora de conteúdo de programação e tecnologia. </br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 </br>
 </br>
-<p align="left"> 
- <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&theme=gotham" />
-</p>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+ <div>
+  <a href="https://github.com/tamirespatrocinio">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 
-### Reach me out 👇:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamires-patrocinio/)](https://www.linkedin.com/in/tamires-patrocinio/)
-[![Gmail Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinioo@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
 
 
 
