@@ -6,7 +6,7 @@
 :mortar_board: Formada em Biologia e cursando Técnico em Informática pelo Senac.</br>
 🔭 Em transição de carreira, com objetivo em atuar na área de desenvolvimento. 
 Criadora de conteúdo de programação e tecnologia. </br>
-⚡ Hobby: Tomar um café, livros, séries, fotografar e viajar com os amigos.</br>
+⚡ Hobbies: Tomar um café, livros, séries, fotografar e viajar com os amigos.</br>
 </p>
 
 
