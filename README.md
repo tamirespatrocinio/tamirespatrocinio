@@ -5,7 +5,7 @@
 <p align="left"> 
 :mortar_board: Formada em Biologia e cursando Técnico em Informática pelo Senac.</br>
 🔭 Em transição de carreira, com objetivo em atuar na área de desenvolvimento. </br>
-:bulb: Criadora de conteúdo de programação e tecnologia -> instagram.com/dua.tech </br>
+:bulb: Criadora de conteúdo de programação e tecnologia -> [dua.tech](https://www.instagram.com/dua.tech/) </br>
 ⚡ Hobbies: Tomar um café, livros, séries, fotografar e viajar com os amigos.</br>
 </p>
 
