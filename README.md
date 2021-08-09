@@ -36,6 +36,12 @@
 </br>
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
+ 
+ <p align="right">
+  "Nós sempre nos definimos pela capacidade de superar o impossível"
+  <br>
+  ― Cooper
+</p>
 
 ##
 
