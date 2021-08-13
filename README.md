@@ -1,7 +1,9 @@
-<h1 align="center"> console.log("Hello, World!");</h1>
 
 <img align="right" alt="tamires" src="https://user-images.githubusercontent.com/73259410/128743672-9954ed1e-9d92-4086-ac95-9922a5470601.png" height="260em">
 
+##
+
+<h1 align="center"> console.log("Hello, World!");</h1>
 <div>
 🎓 Formada em Biologia e cursando Técnico em Informática pelo Senac.</br>
 🔭 Em transição de carreira, com objetivo em atuar na área de desenvolvimento. </br>
@@ -26,6 +28,7 @@
 <div>
 <a href="https://github.com/tamirespatrocinio">
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&theme=dracula" />
 <div>
 </br>
  
