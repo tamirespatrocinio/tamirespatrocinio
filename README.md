@@ -1,6 +1,4 @@
-
-
-<h2 align="center"> console.log ("Hello, World!");</h2>
+<h1 align="center"> console.log ("Hello, World!");</h1>
 
 <img align="right" alt="tamires" src="https://user-images.githubusercontent.com/73259410/128743672-9954ed1e-9d92-4086-ac95-9922a5470601.png" height="260em">
 
