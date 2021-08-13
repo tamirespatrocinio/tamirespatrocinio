@@ -1,8 +1,8 @@
 
-<img align="right" alt="tamires" src="https://user-images.githubusercontent.com/73259410/128743672-9954ed1e-9d92-4086-ac95-9922a5470601.png" width="200px">
-<hr>
-<h3 align="center"> console.log ("Hello, World!");</h3>
-<hr>
+<img align="right" alt="tamires" src="https://user-images.githubusercontent.com/73259410/128743672-9954ed1e-9d92-4086-ac95-9922a5470601.png" height="200em">
+
+<h2 align="center"> console.log ("Hello, World!");</h2>
+
 
 <div>
 🎓 Formada em Biologia e cursando Técnico em Informática pelo Senac.</br>
