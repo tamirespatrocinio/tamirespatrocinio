@@ -1,4 +1,3 @@
-
 <img align="right" alt="tamires" src="https://user-images.githubusercontent.com/73259410/128743672-9954ed1e-9d92-4086-ac95-9922a5470601.png" height="260em">
 
 ##
@@ -20,17 +19,18 @@
 <img align="center" alt="Tami-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="Tami-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="center" alt="Tami-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img align="center" alt="Tami-github" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
 <img align="center" alt="Tami-photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
 <img align="center" alt="Tami-figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-</div>
-</br>
+</div></br>
 
 <div>
 <a href="https://github.com/tamirespatrocinio">
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&theme=dracula" />
 <div>
-</br>
+
+<br>
  
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
@@ -41,5 +41,4 @@
 </p>
 
 ##
-
 ![Snake animation](https://github.com/tamirespatrocinio/tamirespatrocinio/blob/output/github-contribution-grid-snake.svg)
