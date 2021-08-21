@@ -4,10 +4,9 @@
 
 <h1 align="center"> console.log("Hello, World!");</h1>
 <div>
-🎓 Formada em Biologia e cursando Técnico em Informática pelo Senac.</br>
-🔭 Em transição de carreira, com objetivo em atuar na área de desenvolvimento. </br>
-💡 Criadora de conteúdo de programação e tecnologia <a href="https://www.instagram.com/dua.tech">@DuaTech </a></br>
-⚡ Hobbies: Tomar um café, livros, séries, fotografar e viajar com os amigos.</br>
+- Formada em Biologia e cursando Técnico em Informática pelo Senac.</br>
+- Em transição de carreira, com objetivo em atuar na área de desenvolvimento. </br>
+- No meu tempo livre gosto de assistir filmes (🎞️) e séries (📺), ler livros (📚),</br> ouvir músicas (🎵), fotografar (📸) e conversar sobre a vida com um bom café (☕).
 </div>
 
 <div style="display: inline_block"><br>
