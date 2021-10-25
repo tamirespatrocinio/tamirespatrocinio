@@ -1,5 +1,3 @@
-<img align="right" alt="tamires" src="https://user-images.githubusercontent.com/73259410/128743672-9954ed1e-9d92-4086-ac95-9922a5470601.png" height="240em">
-
 ##
 
 <h1 align="center"> console.log("Hello, World!");</h1>
@@ -19,20 +17,16 @@
 </div></br>
 
 <div>
-<a href="https://github.com/tamirespatrocinio">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=7&theme=dracula"/>
-<div>
-
+  <a href="https://github.com/tamirespatrocinio">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
 <br>
  
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
  
-<p align="right">
-"Nós sempre nos definimos pela capacidade de superar o impossível"<br>
-― Cooper
-</p>
 
 ##
 ![Snake animation](https://github.com/tamirespatrocinio/tamirespatrocinio/blob/output/github-contribution-grid-snake.svg)
