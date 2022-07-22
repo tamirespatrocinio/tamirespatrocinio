@@ -15,12 +15,9 @@ No meu tempo livre gosto de assistir filmes (🎞️) e séries (📺), ler livr
 </div></br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&theme=dracula)](https://github.com/tamirespatrocinio/github-readme-stats)
 
- <div align="center">
-  <a href="https://github.com/tamirespatrocinio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 <br>
  
