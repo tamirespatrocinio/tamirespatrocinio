@@ -22,13 +22,14 @@ No meu tempo livre gosto de assistir filmes (🎞️) e séries (📺), ler livr
 
 <br>
 
- <div align="right" >
-"Nós sempre nos definimos pela capacidade de superar o impossível"- Cooper 🚀
- </div>
+
 
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
- 
+
+<div align="right" >
+"Nós sempre nos definimos pela capacidade de superar o impossível"- Cooper 🚀
+ </div>
 
 ##
 ![Snake animation](https://github.com/tamirespatrocinio/tamirespatrocinio/blob/output/github-contribution-grid-snake.svg)
