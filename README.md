@@ -21,7 +21,11 @@ No meu tempo livre gosto de assistir filmes (🎞️) e séries (📺), ler livr
 </div>
 
 <br>
- 
+
+ <div align="center"  style="padding-right: 80px">
+"Nós sempre nos definimos pela capacidade de superar o impossível"- Cooper 🚀
+ </div>
+
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
  
