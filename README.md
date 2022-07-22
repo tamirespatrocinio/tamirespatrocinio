@@ -14,11 +14,12 @@ No meu tempo livre gosto de assistir filmes (🎞️) e séries (📺), ler livr
 <img align="center" alt="Tami-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div></br>
 
-<div>
+ <div align="center">
   <a href="https://github.com/tamirespatrocinio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
+
 <br>
  
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
