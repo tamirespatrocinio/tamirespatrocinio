@@ -22,7 +22,7 @@ No meu tempo livre gosto de assistir filmes (🎞️) e séries (📺), ler livr
 
 <br>
 
- <div align="center"  style="padding-right: 80px">
+ <div align="right" >
 "Nós sempre nos definimos pela capacidade de superar o impossível"- Cooper 🚀
  </div>
 
