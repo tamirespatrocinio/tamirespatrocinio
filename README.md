@@ -1,26 +1,14 @@
-##
+# Tamires Patrocinio
 
-<h1 align="center"> console.log("Hello, World!");</h1>
-<div>
-No meu tempo livre gosto de assistir filmes (🎞️) e séries (📺), ler livros (📚),</br> ouvir músicas (🎵), fotografar (📸) e conversar sobre a vida com um bom café (☕).
-</div>
 
-</br>
+[![Linkedin Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-685EA9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamires-patrocinio/)](https://www.linkedin.com/in/tamires-patrocinio/) 
+[![Gmail Badge](https://img.shields.io/badge/-tamirespatrocinio.ti@gmail.com-685EA9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinio.ti@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
 
-<div align="left">
-<a href="https://github.com/tamirespatrocinio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=10&theme=radical"/>
-</div>
+Bióloga de formação & Desenvolvedora & Fotógrafa nas horas vagas 
 
-<br>
+"Nós sempre nos definimos pela capacidade de superar o impossível" 🚀
 
-<a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
 
-<div align="right" >
-"Nós sempre nos definimos pela capacidade de superar o impossível"- Cooper 🚀
-</div>
 
 ##
 ![Snake animation](https://github.com/tamirespatrocinio/tamirespatrocinio/blob/output/github-contribution-grid-snake.svg)
