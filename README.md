@@ -1,11 +1,11 @@
 # Tamires Patrocinio
 
-![](https://komarev.com/ghpvc/?username=tamirespatrocinio&color=blueviolet)
+<!-- ![](https://komarev.com/ghpvc/?username=tamirespatrocinio&color=blueviolet) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-685EA9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamires-patrocinio/)](https://www.linkedin.com/in/tamires-patrocinio/) 
 [![Gmail Badge](https://img.shields.io/badge/-tamirespatrocinio.ti@gmail.com-685EA9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinio.ti@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
 
 Bióloga de formação & Desenvolvedora & Fotógrafa nas horas vagas 
-
+<!--
 <br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -20,7 +20,7 @@ Bióloga de formação & Desenvolvedora & Fotógrafa nas horas vagas
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<!--
+
 <br><br>
  ## ⚙️ &nbsp;GitHub Analytics 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
