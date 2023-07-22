@@ -4,7 +4,7 @@
 <hr>
 
 <div>
-🎓 Formada em Biologia e cursando Especialização em Ciência de Dados e Inteligência Artificial.</br>
+🎓 Formada em Biologia e cursando especialização em Ciência de Dados e IA.</br>
 🔭 Fotógrafa nas horas vagas.</br>
 ⚡ Hobbies: Tomar um café, livros, séries e viajar com os amigos.</br>
 </br>
