@@ -1,12 +1,54 @@
-# Tamires Patrocinio
+<img align="right" alt="tamires" src="https://user-images.githubusercontent.com/73259410/128743672-9954ed1e-9d92-4086-ac95-9922a5470601.png" width="240px">
+<hr>
+<h3 align="center"> console.log ("Hello, World!");</h3>
+<hr>
 
-<!-- ![](https://komarev.com/ghpvc/?username=tamirespatrocinio&color=blueviolet) -->
+<div>
+🎓 Formada em Biologia e cursando Especialização em Ciência de Dados e Inteligência Artificial.</br>
+🔭 Fotógrafa nas horas vagas.</br>
+⚡ Hobbies: Tomar um café, livros, séries e viajar com os amigos.</br>
+</br>
+ 
+  <div style="display: inline_block"><br>
+     <img align="center" alt="Tami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="Tami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Tami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="Tami-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     <img align="center" alt="Tami-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+     <img align="center" alt="Tami-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+     <img align="center" alt="Tami-photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+     <img align="center" alt="Tami-figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  </div>
+</div>
+</br>
+
+
+<div>
+ <a href="https://github.com/tamirespatrocinio">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=16&theme=radical"/>
+ </a> 
+<div>
+
+</br>
+
+<a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/>
+</a> 
+
+ <p align="right">
+  "Nós sempre nos definimos pela capacidade de superar o impossível"
+  <br>
+  ― Cooper
+</p>
+
+##
+
+
+<!-- 
+![](https://komarev.com/ghpvc/?username=tamirespatrocinio&color=blueviolet) 
 [![Linkedin Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-685EA9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamires-patrocinio/)](https://www.linkedin.com/in/tamires-patrocinio/) 
 [![Gmail Badge](https://img.shields.io/badge/-tamirespatrocinio.ti@gmail.com-685EA9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinio.ti@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
-<!--
-Bióloga de formação & Desenvolvedora & Fotógrafa nas horas vagas 
-
-<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -20,13 +62,10 @@ Bióloga de formação & Desenvolvedora & Fotógrafa nas horas vagas
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-<br><br>
+<br>
  ## ⚙️ &nbsp;GitHub Analytics 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-"Nós sempre nos definimos pela capacidade de superar o impossível" 🚀
 -->
 
 ![Snake animation](https://github.com/tamirespatrocinio/tamirespatrocinio/blob/output/github-contribution-grid-snake.svg)
