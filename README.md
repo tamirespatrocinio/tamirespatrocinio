@@ -37,7 +37,7 @@
 </a> 
 
  <p align="right">
-  "Nós sempre nos definimos pela capacidade de superar o impossível"
+  "We've always defined ourselves by the ability to overcome the impossible."
   <br>
   ― Cooper
 </p>
