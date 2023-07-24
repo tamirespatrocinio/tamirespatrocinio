@@ -4,9 +4,9 @@
 <hr>
 
 <div>
-🎓 Formada em Biologia e cursando especialização em Ciência de Dados e IA.</br>
-🔭 Fotógrafa nas horas vagas.</br>
-⚡ Hobbies: Tomar um café, livros, séries e viajar com os amigos.</br>
+🎓 Graduated in Biology and currently pursuing a specialization in Data Science and AI.</br>
+🔭 Photographer in my spare time.</br>
+⚡ Hobbies: Having coffee, reading books, watching series, and traveling with friends.
 </br>
  
   <div style="display: inline_block"><br>
