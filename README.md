@@ -22,12 +22,12 @@
 </div>
 </br>
 
-
+<!--
 <div>
- <a href="https://github.com/tamirespatrocinio">
+  <a href="https://github.com/tamirespatrocinio">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=16&theme=radical"/>
- </a> 
+ </a>  
 <div>
 
 </br>
@@ -35,6 +35,7 @@
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/>
 </a> 
+-->
 
  <p align="right">
   "We've always defined ourselves by the ability to overcome the impossible."
