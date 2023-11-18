@@ -1,15 +1,16 @@
 <img align="right" alt="tamires" src="https://user-images.githubusercontent.com/73259410/128743672-9954ed1e-9d92-4086-ac95-9922a5470601.png" width="240px">
+
 <hr>
-<h3 align="center"> console.log ("Hello, World!");</h3>
+<h3 align="center">console.log ("Hello, World!");</h3>
 <hr>
 
 <div>
 🎓 Graduated in Biology and currently pursuing a specialization in Data Science and AI.</br>
 🔭 Photographer in my spare time.</br>
 ⚡ Hobbies: Having coffee, reading books, watching series, and traveling with friends.
-</br>
+<br>
  
-  <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
      <img align="center" alt="Tami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Tami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Tami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,15 +22,29 @@
      <img align="center" alt="Tami-figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   </div>
 </div>
-</br>
+
+<br>
+<h3 align="left">Connect with me</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=DE406B&color:FFF)](https://www.linkedin.com/in/tamires-patrocinio/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=DE406B&color:FFF&link=mailto:tamirespatrocinio.ti@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
+
+ <p align="right">
+  "If your dreams don't scare you, they are not big enough."
+  <br>
+  ― Ellen Johnson
+</p>
+
 
 <!--
-<div>
-  <a href="https://github.com/tamirespatrocinio">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=16&theme=radical"/>
- </a>  
-<div>
+<details align="left">
+  <summary></summary> 
+ 
+<h3 align="left">GitHub Stats</h3>
+
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tamirespatrocinio&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=16&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/tamirespatrocinio/github-readme-stats)
+</details>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tamirespatrocinio&hide_title=true&show_icons=true&include_all_commits=true&rank_icon=github&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 
 </br>
 
@@ -37,15 +52,6 @@
  <img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/>
 </a> 
 -->
-
- <p align="right">
-  "We've always defined ourselves by the ability to overcome the impossible."
-  <br>
-  ― Cooper
-</p>
-
-##
-
 
 <!-- 
 ![](https://komarev.com/ghpvc/?username=tamirespatrocinio&color=blueviolet) 
