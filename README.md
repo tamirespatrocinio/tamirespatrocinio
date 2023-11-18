@@ -35,7 +35,6 @@
 <h3 align="left">GitHub Stats</h3>
 
 <div>
-<a href="https://github.com/tamirespatrocinio">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=DE406B&text_color=FFF&border_radius=3&border_color=2C0D15&icon_color=DE406B&theme=jolly"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=10&show_icons=true&title_color=DE406B&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=2C0D15&count_private=true"/>
 <div>
