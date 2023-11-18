@@ -29,6 +29,19 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=DE406B&color:FFF)](https://www.linkedin.com/in/tamires-patrocinio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=DE406B&color:FFF&link=mailto:tamirespatrocinio.ti@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
 
+<details align="left">
+  <summary></summary> 
+ 
+<h3 align="left">GitHub Stats</h3>
+
+<div>
+<a href="https://github.com/tamirespatrocinio">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=DE406B&text_color=FFF&border_radius=3&border_color=2C0D15&icon_color=DE406B&theme=jolly"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=10&show_icons=true&title_color=DE406B&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=2C0D15&count_private=true"/>
+<div>
+
+</details>
+
  <p align="right">
   "If your dreams don't scare you, they are not big enough."
   <br>
@@ -37,23 +50,10 @@
 
 
 <!--
-<details align="left">
-  <summary></summary> 
- 
-<h3 align="left">GitHub Stats</h3>
-
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tamirespatrocinio&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=16&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/tamirespatrocinio/github-readme-stats)
-</details>
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tamirespatrocinio&hide_title=true&show_icons=true&include_all_commits=true&rank_icon=github&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-
-</br>
-
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/>
 </a> 
--->
 
-<!-- 
 ![](https://komarev.com/ghpvc/?username=tamirespatrocinio&color=blueviolet) 
 [![Linkedin Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-685EA9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamires-patrocinio/)](https://www.linkedin.com/in/tamires-patrocinio/) 
 [![Gmail Badge](https://img.shields.io/badge/-tamirespatrocinio.ti@gmail.com-685EA9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinio.ti@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
