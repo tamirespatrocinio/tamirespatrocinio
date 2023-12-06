@@ -26,6 +26,7 @@
 <br>
 <h3 align="left">Connect with me</h3>
 
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=DE406B&color:FFF)](https://www.instagram.com/in/tamiphoto._/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=DE406B&color:FFF)](https://www.linkedin.com/in/tamires-patrocinio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=DE406B&color:FFF&link=mailto:tamirespatrocinio.ti@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
 
@@ -52,10 +53,6 @@
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/>
 </a> 
-
-![](https://komarev.com/ghpvc/?username=tamirespatrocinio&color=blueviolet) 
-[![Linkedin Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-685EA9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamires-patrocinio/)](https://www.linkedin.com/in/tamires-patrocinio/) 
-[![Gmail Badge](https://img.shields.io/badge/-tamirespatrocinio.ti@gmail.com-685EA9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinio.ti@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
 
 ## 🛠 &nbsp;Tech Stack
 
