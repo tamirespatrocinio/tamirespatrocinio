@@ -1,4 +1,4 @@
-<img align="right" alt="tamires" src="https://user-images.githubusercontent.com/73259410/128743672-9954ed1e-9d92-4086-ac95-9922a5470601.png" width="240px">
+<img align="right" alt="tamires" src="https://github.com/tamirespatrocinio/tamirespatrocinio/assets/73259410/4f6d09c2-3b0e-483f-896b-9189b78562f8" width="260px">
 
 <hr>
 <h3 align="center">console.log ("Hello, World!");</h3>
@@ -30,6 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=DE406B&color:FFF)](https://www.linkedin.com/in/tamires-patrocinio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=DE406B&color:FFF&link=mailto:tamirespatrocinio.ti@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
 
+<!--
 <details align="left">
   <summary></summary> 
  
@@ -41,7 +42,7 @@
 <div>
 
 </details>
-
+-->
  <p align="right">
   "If your dreams don't scare you, they are not big enough."
   <br>
