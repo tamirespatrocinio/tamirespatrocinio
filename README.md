@@ -18,7 +18,7 @@
      <img align="center" alt="Tami-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
      <img align="center" alt="Tami-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
      <img align="center" alt="Tami-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-     <img align="center" alt="Tami-photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+     <img align="center" alt="Tami-photoshop" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
      <img align="center" alt="Tami-figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   </div>
 </div>
