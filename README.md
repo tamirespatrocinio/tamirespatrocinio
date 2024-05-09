@@ -5,7 +5,7 @@
 <hr>
 
 <div>
-🎓 Graduated in Biological Sciences and postgraduate in Data Science and Artificial Intelligence.</br>
+🎓 Graduated in Biological Sciences and postgraduate in Data Science and AI.</br>
 🔭 Photographer in my spare time.</br>
 ⚡ Hobbies: Having coffee, reading books, watching series, and traveling with friends.
 <br>
