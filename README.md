@@ -5,7 +5,7 @@
 <hr>
 
 <div>
-🎓 Graduated in Biology and currently pursuing a specialization in Data Science and AI.</br>
+🎓 Graduated in Biological Sciences and postgraduate in Data Science and Artificial Intelligence.</br>
 🔭 Photographer in my spare time.</br>
 ⚡ Hobbies: Having coffee, reading books, watching series, and traveling with friends.
 <br>
