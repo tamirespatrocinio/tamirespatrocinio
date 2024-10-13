@@ -16,6 +16,7 @@
      <img align="center" alt="Tami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Tami-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
      <img align="center" alt="Tami-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     <img align="center" alt="Tami-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
      <img align="center" alt="Tami-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
      <img align="center" alt="Tami-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
      <img align="center" alt="Tami-photoshop" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
@@ -30,7 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=DE406B&color:FFF)](https://www.linkedin.com/in/tamires-patrocinio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=DE406B&color:FFF&link=mailto:tamirespatrocinio.ti@gmail.com)](mailto:tamirespatrocinio.ti@gmail.com)
 
-<!--
+
 <details align="left">
   <summary></summary> 
  
@@ -38,11 +39,12 @@
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=DE406B&text_color=FFF&border_radius=3&border_color=2C0D15&icon_color=DE406B&theme=jolly"/>
+ 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&langs_count=10&show_icons=true&title_color=DE406B&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=2C0D15&count_private=true"/>
 <div>
 
 </details>
--->
+
  <p align="right">
   "If your dreams don't scare you, they are not big enough."
   <br>
